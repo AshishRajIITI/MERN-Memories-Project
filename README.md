@@ -1,4 +1,4 @@
-# MERN-Memories-Project
+# Udati-Chidiya(Flying Bird)- A complete memories making web application.
 
 # Getting Started with Create React App
 
