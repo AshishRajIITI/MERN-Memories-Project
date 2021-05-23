@@ -1,4 +1,4 @@
-# Udti-Chidiya(Flying Bird)- A complete memories making web application.
+# OurApp- A complete memories making web application.
 
 # Getting Started with Create React App
 
