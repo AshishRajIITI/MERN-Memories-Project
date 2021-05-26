@@ -1,4 +1,4 @@
-# OurApp- A complete memories making web application.
+# OurApp- A complete post making web application.
 
 # Getting Started with Create React App
 
